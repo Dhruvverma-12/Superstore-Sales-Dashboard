@@ -278,7 +278,7 @@ Identifies customers generating the highest profits.
 Superstore-Sales-Dashboard/
 │
 ├── Dataset/
-│   └── Superstore_Sales_Data.xlsx
+│   └── Superstore_Sales_Data.csv
 │
 ├── Dashboard/
 │   └── Superstore Sales Dashboard.pbix
