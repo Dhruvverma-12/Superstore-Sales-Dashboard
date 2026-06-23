@@ -1,4 +1,19 @@
-# Superstore Sales Analytics Dashboard | Power BI
+<div align="center">
+
+# 🛒 Blinkit Sales Analytics Dashboard
+
+### 📊 Interactive Business Intelligence Dashboard built with Power BI
+
+<img src="https://github.com/Dhruvverma-12/Superstore-Sales-Dashboard/blob/main/Snapshot%20of%20Superstore%20sales%20dashboard%20.png" width="100%">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=for-the-badge&logo=mysql)
+![Excel](https://img.shields.io/badge/Excel-Data%20Source-217346?style=for-the-badge&logo=microsoft-excel)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+</div>
+
+---
 
 ## Project Overview
 
